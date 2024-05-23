@@ -7,6 +7,11 @@ Soy arquitecto y proximamente programador. Siempre he sido un apasionado de la t
 
 # 💻 Programs:
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/autocad-%23E34F26.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+![SketchUp](https://img.shields.io/badge/sketchup-%23ff5533.svg?style=for-the-badge&logo=sketchup&logoColor=white)
+![Revit](https://img.shields.io/badge/revit-%23007ACC.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+![V-Ray](https://img.shields.io/badge/vray-%23334C59.svg?style=for-the-badge&logo=vray&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alimilan88&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alimilan88&theme=dark&hide_border=false)<br/>
