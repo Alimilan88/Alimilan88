@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Ali Fares
 
-<!--
-**Alimilan88/Alimilan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy arquitecto y proximamente programador. Siempre he sido un apasionado de la tecnologia, donde siempre tengo la curiosidad sobre las nuevas tendencias tecnologicas. Me encanta crear soluciones innovadoras que resuelvan problemas reales y mejoren la vida de las personas.
 
-Here are some ideas to get you started:
+## 🔧 Habilidades Técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Herramientas y Tecnologías:** AustoCAD, Sketchup, V-Ray, Photoshop.
+
+## 🚀 Proyectos Destacados
+
+- **Feed de Instagram:** Pagina de un Feed comun de Instagram.
+- **Formulario de pago:** Formulario de pago usando Bootstrap.
+
+## 📚 Educación y Certificaciones
+
+- Arquitecto, Universidad Jose Antonio Paez
+
+## 🌱 Aprendizaje Continuo
+
+Actualmente, estoy aprendiendo sobre Full stack Developer en la Academia de 4Geeks Academy para entran en el mundo de la programacion.
