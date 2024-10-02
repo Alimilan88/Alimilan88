@@ -1,5 +1,5 @@
 # 💫 Acerca de mi:
-Soy arquitecto y proximamente programador. Siempre he sido un apasionado de la tecnologia, donde siempre tengo la curiosidad sobre las nuevas tendencias tecnologicas. Me encanta crear soluciones innovadoras que resuelvan problemas reales y mejoren la vida de las personas.
+Soy un Arquitecto y Desarrollador Full Stack con experiencia en liderazgo y trabajo en equipo, capacitado para trabajar de manera eficiente bajo presión. Me destaco por ser una persona resolutiva, capaz de mantener la calma y asegurar resultados en situaciones de alta demanda.
 
 
 ## 🌐 Socials:
