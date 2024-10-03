@@ -1,5 +1,5 @@
 # 💫 Acerca de mi:
-Soy un Arquitecto y Desarrollador Full Stack con experiencia en liderazgo y trabajo en equipo, capacitado para trabajar de manera eficiente bajo presión. Me destaco por ser una persona resolutiva, capaz de mantener la calma y asegurar resultados en situaciones de alta demanda.
+Desarrollador Full Stack con experiencia en liderazgo y trabajo en equipo, capacitado para trabajar de manera eficiente bajo presión. Me destaco por ser una persona resolutiva, capaz de mantener la calma y asegurar resultados en situaciones de alta demanda.
 
 
 ## 🌐 Socials:
